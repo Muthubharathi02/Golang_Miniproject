@@ -1,0 +1,32 @@
+{
+    "pairs": [
+      {
+	    "question": "Hi",
+        "response": "Hello"
+      },
+      {
+        "question": "How are you?",
+        "response": "Fine!!"
+      },
+      {
+        "question": "What is your name?",
+        "response": "My name BOT_KMB,I can answer for your question."
+      },
+      {
+        "question": "Where are you",
+        "response": "I am in India"
+      },
+      {
+        "question": "What are interested about",
+        "response": "I am interested about Datascience and AI"
+      },
+      {
+        "question": "Exit",
+        "response": "Bye have a nice day"
+      },
+      {
+        "question": "Thank you",
+        "response": "Welcome!!!"
+      }
+    ]
+  }
